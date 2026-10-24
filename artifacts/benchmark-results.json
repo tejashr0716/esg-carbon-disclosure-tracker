@@ -1,0 +1,19 @@
+{
+  "benchmark": "ESG Carbon Disclosure Tracker Greenwashing Surveillance & Footprint Aggregation",
+  "timestamp": "2026-10-24T08:41:25.742879+00:00",
+  "total_audits_evaluated": 500,
+  "total_duration_seconds": 1.109,
+  "throughput_audits_per_second": 450.77,
+  "audit_latency_ms": {
+    "min": 1.411,
+    "mean": 2.212,
+    "p50": 2.029,
+    "p95": 2.938,
+    "p99": 4.142,
+    "max": 26.598
+  },
+  "target_compliance": {
+    "p95_under_10ms": true,
+    "audit_trail_recorded": true
+  }
+}
